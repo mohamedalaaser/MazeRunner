@@ -1,4 +1,4 @@
-This is a 3d maze runner game implemented using opengl.
+This is a 3D maze runner game implemented using opengl.
 
 You can start the game by opening and running the file "OpenGLMeshLoader.sln" using visual studio.
 
