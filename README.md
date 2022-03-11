@@ -7,12 +7,21 @@ moving towards the gate at the end of the maze will teleport you to the second l
 
 You can use the following controlls to play the game:
 'w' : move forward
+
 'a' : move left
+
 's' : move backwards
+
 'd' : move right
+
 'q' : rotate left
+
 'e' : rotate right
+
 'c' : switch camera view (first person/third person)
+
 'space' : jump
+
 'mouse click left' : look left
+
 'mouse click right' : look right
