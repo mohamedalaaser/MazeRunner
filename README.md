@@ -6,6 +6,7 @@ Collect coins to increase in score, jump to avoid obstacles and finish the maze 
 moving towards the gate at the end of the maze will teleport you to the second level and a new maze.
 
 You can use the following controlls to play the game:
+
 'w' : move forward
 
 'a' : move left
